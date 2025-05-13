@@ -35,7 +35,6 @@ settings.json dosyasında Instagram kullanıcı adı/parolası ve varsayılan in
 Instagram yüklemeleri sırasında bot tespiti yaşamamak için gerçekçi kullanıcı bilgileriyle giriş yapılması önerilir.
 
 
-📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌
 🇬🇧 English Description
 📸 Video Uploader Plus
 Video Uploader Plus is a powerful desktop application that allows you to download videos from platforms like YouTube via URLs and upload them directly to Instagram.
